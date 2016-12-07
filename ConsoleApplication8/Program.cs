@@ -14,6 +14,8 @@ namespace ConsoleApplication8
             Console.WriteLine("add in master first!!!");
             int n = 10;
             Console.WriteLine(f());
+            Branch b = new Branch();
+            b.branch1();
         }
         static int f()
         {
