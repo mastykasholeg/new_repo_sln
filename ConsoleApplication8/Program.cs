@@ -11,6 +11,8 @@ namespace ConsoleApplication8
         static void Main(string[] args)
         {
             Console.WriteLine("first my project");
+            Console.WriteLine("add in master first!!!");
+            int n = 10;
         }
     }
 }

@@ -4,3 +4,9 @@ c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication8\Console
 c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
 c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+D:\repo1\new_repo_sln\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+D:\repo1\new_repo_sln\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+D:\repo1\new_repo_sln\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+D:\repo1\new_repo_sln\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\repo1\new_repo_sln\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+D:\repo1\new_repo_sln\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
