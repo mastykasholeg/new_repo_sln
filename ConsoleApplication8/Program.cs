@@ -14,6 +14,9 @@ namespace ConsoleApplication8
             Console.WriteLine("add in master first!!!");
             int n = 10;
             Console.WriteLine(f());
+            Class1 obj = new Class1();
+            obj.master();
+
         }
         static int f()
         {
